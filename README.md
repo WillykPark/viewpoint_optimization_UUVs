@@ -47,7 +47,7 @@ During **deployment**:
 
 #### Pipeline
 
-![pipeline](/Users/park-yong-kyoon/Documents/GitHub/00.personal/Viewpoint Optimization w: RL/pipeline.png)
+![pipeline](./pipeline.png)
 
 -------------
 
