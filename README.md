@@ -47,7 +47,7 @@ During **deployment**:
 
 #### Pipeline
 
-<img src="/Users/park-yong-kyoon/Documents/07.UF MS ECE/01.Study/Research/APRI Lab/PPO/스크린샷 2025-11-21 오후 2.24.22.png" alt="스크린샷 2025-11-21 오후 2.24.22" style="zoom:50%;" />
+![pipeline](/Users/park-yong-kyoon/Documents/GitHub/00.personal/Viewpoint Optimization w: RL/pipeline.png)
 
 -------------
 
